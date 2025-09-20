@@ -11,12 +11,13 @@ Learning Flow:
 RTL ➝ Logic Synthesis ➝ Physical Design ➝ Tapeout
 
 📅 Week 0 — Setup and Tool Installation
-
+The  week 0 tasks cover a video on how the whole flow of the program goes Kunal sir has clearly explained how a chip is manufactured from scratch and what are the tools that we have to use for designing our chip 
 Objectives:
 
 Establish the working environment for SoC design.
 
 Install and validate open-source tools including Yosys, OpenLane, Magic, and others.
+
 
 Understand the overall program scope and methodology.
 
